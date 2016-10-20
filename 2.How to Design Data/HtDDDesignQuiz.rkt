@@ -4356,7 +4356,7 @@
 0 0 24 29 1 #"\n"
 0 0 17 3 18 #";; Age -> MonthAge"
 0 0 24 29 1 #"\n"
-0 0 17 3 32 #";; converts fom age to month age"
+0 0 17 3 55 #";; converts fom age to month age, multiplying age by 12"
 0 0 24 29 1 #"\n"
 0 0 24 3 1 #"("
 0 0 14 3 12 #"check-expect"
