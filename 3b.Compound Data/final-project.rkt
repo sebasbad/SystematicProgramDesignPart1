@@ -14239,9 +14239,11 @@
 0 0 24 29 1 #"\n"
 0 0 17 3 19 #";; Flower -> Flower"
 0 0 24 29 1 #"\n"
-0 0 17 3 64
-#";; start the world with (make-flower (/ WIDTH 2) (/ HEIGHT 2) 1)"
-0 0 24 29 1 #"\n"
+0 0 17 3 71
+(
+ #";; start the world with (main (make-flower (/ WIDTH 2) (/ HEIGHT 2) "
+ #"1))"
+) 0 0 24 29 1 #"\n"
 0 0 17 3 3 #";; "
 0 0 24 29 1 #"\n"
 0 0 24 3 1 #"("
